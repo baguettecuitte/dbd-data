@@ -1,4 +1,12 @@
 {
-  "codes": ["CODE1", "CODE2"],
-  "shrine": ["Perk 1", "Perk 2"]
+  "codes": [
+    "CODE1",
+    "CODE2"
+  ],
+  "shrine": [
+    "PERK 1",
+    "PERK 2",
+    "PERK 3",
+    "PERK 4"
+  ]
 }
